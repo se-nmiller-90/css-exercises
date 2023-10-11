@@ -1,6 +1,7 @@
 .external{
-    color:blueviolet;
-    background-color: black;
-    text-size-adjust: 20px;
+    color:white;
+    background-color:red;
     text-align: center;
+    font-size: xx-large;
+    font-weight: bold;
 }
