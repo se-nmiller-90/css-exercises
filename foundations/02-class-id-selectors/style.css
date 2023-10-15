@@ -1,0 +1,25 @@
+#one {
+    background-color:white;
+    color:blue;
+    font-size: 50px;   
+}
+
+#two {
+    background-color:greenyellow;
+    color:black;
+    font-weight: bold;
+    font-size: 30px;
+}
+
+.one, .two {
+    background-color: darksalmon;
+    color: black;
+}
+
+.one {
+    font-size: 20px;
+}
+
+.two {
+    font-size: 40px;
+}
