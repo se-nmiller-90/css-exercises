@@ -1,0 +1,14 @@
+.one {
+    background-color: black;
+    color: white;
+}
+
+.two {
+    background-color: yellow;
+    color:black;
+}
+
+.font-prop {
+    font-size: 28px;
+    font-family: Arial, Helvetica, sans-serif;
+}
